@@ -23,7 +23,7 @@ The next method was to use KMeans with our whole dataset and use k=24 as the num
 
 We then used the silhouette_score technique to score the prediction of the clustering and we achieved a 0.72 score. We also built an elbow curve to have a graphical view of the optimal number of clusters to be used.
 
-Another method we decided to use was BDscan to make a comparison to what had been done so far. We achieved a prediction score of the clustering of 0.3478.
+Another method we decided to use was DBscan to make a comparison to what had been done so far. We achieved a prediction score of the clustering of 0.3478.
 
 
 ### Usage
