@@ -47,7 +47,13 @@ pip install numpy
 pip install seaborn
 ```
 ### Authors
-Realized by : 11.02.2021 by : Imad HajRashid, Abdellah El Ghilbzouri, Ousmane Diop, Jonathan Decleire.
+Realized by : 11.02.2021 by : 
+    
+Abdellah El Ghilbzouri   
+Imad HajRashid  
+Jonathan Decleire  
+Ousmane Diop   
+ 
 
 
 
